@@ -52,7 +52,7 @@ const matrice = ['abcd','bcde','cdef','defh','efhg']
 
 
 // const matrice4 = matrice.map((item) =>{
-//     return item[-1];
+//     return item[item.length - 1];
 // });
 
 // console.log('ex4', matrice4)
